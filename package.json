@@ -11,7 +11,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
